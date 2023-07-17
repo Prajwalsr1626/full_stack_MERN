@@ -1,0 +1,16 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "node learing",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": " tsc TypeScript/programtest.ts nodemon TypeScript/programtest.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prajwal",
+  "license": "ISC",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}

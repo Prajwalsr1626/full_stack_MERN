@@ -1,0 +1,18 @@
+not do .
+
+/*     if(action.type==="increment"){
+    
+           // state.count=state.count+1 //bad way mange the state
+            hystore.push(state)
+            return {count:state.count+1}
+        }
+     */
+
+
+subscribe
+
+/* store.subscribe(()=>{
+   console.log(hystore);
+   console.log(store.getState()); 
+}) */
+//console.log(store.getState());

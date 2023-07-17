@@ -1,0 +1,9 @@
+Node.js is a server-side JavaScript runtime environment that is built on top of Google's V8 engine. 
+One of the key features of Node.js is its event-driven architecture, 
+which allows developers to write non-blocking, asynchronous code that can
+handle a large number of concurrent connections.
+In event-driven programming, the program flow is determined by events that occur in the system. 
+Events can be anything from a user clicking a button to a network request completing.
+When an event occurs, Node.js notifies the relevant event handler function and executes it to handle the event. This allows the program to continue running while waiting for potentially time-consuming operations, like file I/O or network requests, to complete.
+Here is an example of event-driven programming in Node.js:
+
